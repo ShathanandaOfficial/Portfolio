@@ -1,8 +1,9 @@
+import Home from '../pages/Home'
 
 const navbar = () => {
   return (
     <div>
-        <nav className="w-full h-10 flex list-none bg-blue-400 text-white text-2xl font-serif font-semibold space-x-10">
+        <nav className="w-full h-16 list-none font-serif font-extrabold text-2xl flex justify-end space-x-5 px-2 py-5 bg-blue-400">
             <li className=""><a href="">Home</a></li>
             <li className=""><a href="">About</a></li>
             <li className=""><a href="">Projects</a></li>
