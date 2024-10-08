@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"React",
+        "description":"A powerful JavaScript library for building user interfaces. I use React to create dynamic, responsive web applications, leveraging components, hooks, and state management for seamless user experiences."
+    },
+    {
+        "id":2,
+        "title":"MongoDB",
+        "description":"A NoSQL database that allows for flexible and scalable data management. I utilize MongoDB for storing and managing data in web applications, enabling efficient CRUD operations and handling complex data structures."
+    },
+    {
+        "id":3,
+        "title":"Node Js",
+        "description":"A runtime environment that enables JavaScript to be used for backend development. With Node.js, I build fast, scalable server-side applications and APIs, utilizing its non-blocking, event-driven architecture for high-performance apps."
+    }
+]
