@@ -13,5 +13,20 @@
         "id":3,
         "title":"Node Js",
         "description":"A runtime environment that enables JavaScript to be used for backend development. With Node.js, I build fast, scalable server-side applications and APIs, utilizing its non-blocking, event-driven architecture for high-performance apps."
+    },
+    {
+        "id":4,
+        "title":"Express",
+        "description":"Express.js is a fast, minimalist web framework for Node.js, designed to build web applications and APIs. It simplifies server-side code by offering powerful routing, middleware support, and handling HTTP requests and responses with ease."
+    },
+    {
+        "id":5,
+        "title":"MySQL",
+        "description":"MySQL is a popular open-source relational database management system (RDBMS). It efficiently stores and manages large amounts of structured data, using SQL (Structured Query Language) for querying and manipulating data across multiple tables."
+    },
+    {
+        "id":6,
+        "title":"PHP",
+        "description":"PHP (Hypertext Preprocessor) is a widely-used server-side scripting language designed for web development. It allows developers to create dynamic web pages and interact with databases like MySQL, offering flexibility for backend development."
     }
 ]

@@ -1,13 +1,15 @@
 import { useState } from 'react'
 
 const Skill = ({ detail }) => {
+
   const [show, setShow] = useState(false);
   let Description = detail.description;
   if(!show) {
     Description = Description.substring(0, 100) + "...";
   }
+
   return (
-    <div className="w-80 rounded-lg shadow-xl overflow-hidden">
+    <div className="w-96 rounded-lg shadow-xl overflow-hidden">
         <img src="https://via.placeholder.com/300" alt="Skill-1" className="w-full h-72 border-b-4 border-blue-800 bg-blue-200" />
         <div className="p-2 text-justify font-serif border-t-2 border-yellow-500">
             <h1 className="font-extrabold text-2xl underline">{detail.title}</h1>
